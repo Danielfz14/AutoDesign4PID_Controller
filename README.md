@@ -23,6 +23,5 @@ Authors: _Daniel F. Zambrano-Gutierrez, Jorge M. Cruz-Duarte, Jos\'e Carlos  Ort
 * [Code for simulating the converter and controller in MATLAB](https://github.com/Danielfz14/CEC23-AUTODESIGN_PID_CONTROLLER/blob/main/HHbuck.m)
 * [Nonlinear model simulation](https://github.com/Danielfz14/AutoDesign4PID_Controller/blob/main/ripp_buck2.m)
 * [Controller Data ](https://github.com/Danielfz14/CEC23-AUTODESIGN_PID_CONTROLLER/tree/main/Fit_KP_KI_KD_MHs)
-* [Main results](https://github.com/Danielfz14/CEC23-AUTODESIGN_PID_CONTROLLER/tree/main/results)
 * [Main results graphs](https://github.com/Danielfz14/AutoDesign4PID_Controller/blob/main/grafics.m)
 * [Tables](https://github.com/Danielfz14/AutoDesign4PID_Controller/blob/main/grafic_table.m)
